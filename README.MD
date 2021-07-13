@@ -1,5 +1,7 @@
 # Building a todo app
 
+been trying to learn redux
+
 ### with :
 
 * webpack
